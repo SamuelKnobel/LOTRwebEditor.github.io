@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/LOTRwebEditor.github.io/static/css/main.f855e6bc.css",
-    "main.js": "/LOTRwebEditor.github.io/static/js/main.9dd2ac1e.js",
+    "main.css": "/LOTRwebEditor.github.io/static/css/main.353e8475.css",
+    "main.js": "/LOTRwebEditor.github.io/static/js/main.e66c8e62.js",
     "static/js/592.a7c0d718.chunk.js": "/LOTRwebEditor.github.io/static/js/592.a7c0d718.chunk.js",
-    "static/media/logo.svg": "/LOTRwebEditor.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/LOTRwebEditor.github.io/index.html",
-    "main.f855e6bc.css.map": "/LOTRwebEditor.github.io/static/css/main.f855e6bc.css.map",
-    "main.9dd2ac1e.js.map": "/LOTRwebEditor.github.io/static/js/main.9dd2ac1e.js.map",
+    "main.353e8475.css.map": "/LOTRwebEditor.github.io/static/css/main.353e8475.css.map",
+    "main.e66c8e62.js.map": "/LOTRwebEditor.github.io/static/js/main.e66c8e62.js.map",
     "592.a7c0d718.chunk.js.map": "/LOTRwebEditor.github.io/static/js/592.a7c0d718.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.9dd2ac1e.js"
+    "static/css/main.353e8475.css",
+    "static/js/main.e66c8e62.js"
   ]
 }
