@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/LOTRwebEditor.github.io/static/css/main.68b6546e.css",
-    "main.js": "/LOTRwebEditor.github.io/static/js/main.94a51951.js",
+    "main.js": "/LOTRwebEditor.github.io/static/js/main.ebc89fce.js",
     "static/js/592.a7c0d718.chunk.js": "/LOTRwebEditor.github.io/static/js/592.a7c0d718.chunk.js",
     "index.html": "/LOTRwebEditor.github.io/index.html",
     "main.68b6546e.css.map": "/LOTRwebEditor.github.io/static/css/main.68b6546e.css.map",
-    "main.94a51951.js.map": "/LOTRwebEditor.github.io/static/js/main.94a51951.js.map",
+    "main.ebc89fce.js.map": "/LOTRwebEditor.github.io/static/js/main.ebc89fce.js.map",
     "592.a7c0d718.chunk.js.map": "/LOTRwebEditor.github.io/static/js/592.a7c0d718.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68b6546e.css",
-    "static/js/main.94a51951.js"
+    "static/js/main.ebc89fce.js"
   ]
 }
